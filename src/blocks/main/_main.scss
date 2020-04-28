@@ -1,0 +1,32 @@
+.music {
+
+    &__menu {
+        margin-left: 235px;
+
+        li:first-child {
+            padding-right: 46px;
+        }
+
+        li:nth-child(2) {
+            padding-right: 42px;
+        }
+
+        li:nth-child(3) {
+            padding-right: 41px;
+        }
+    }
+    
+    &__item a {
+        text-decoration: none;
+        text-transform: uppercase;
+        font-family: Montserrat;
+        font-size: 13px;
+        font-weight: 300;
+        line-height: 71px;
+        color: white;
+    }
+
+    &__item a:hover {
+        color: #22dae5;
+    }
+}
