@@ -29,4 +29,17 @@
     &__item a:hover {
         color: #22dae5;
     }
+
+    &__profile {
+        margin-left: auto;
+    }
+
+    &__picture {
+        width: 59px;
+        height: 59px;
+        border-radius: 50%;
+        border: 1px solid rgba(255,255,255, 0.15);
+    }
+
+
 }
