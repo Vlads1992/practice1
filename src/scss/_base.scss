@@ -3,6 +3,9 @@ body {
     background-color:#262626;
 }
 
-.container--lg {
-    max-width: 1200px;
+.wrapper {
+    width: 87%;
+	margin: 0 auto;
+	position: relative;
+	height: 100%;
 }
